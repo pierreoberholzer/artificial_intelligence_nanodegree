@@ -1,0 +1,10 @@
+Timestamp,Problem,Search,Heuristic,Plan length,Time elapsed,Expansions,Goal tests,New nodes
+10:12:2017 11:00:06,Air Cargo Problem 1,greedy_best_first_graph_search, with h_1,6,0.013560563005739823,7,9,28
+10:12:2017 11:00:07,Air Cargo Problem 1,astar_search, with h_1,6,0.11213139799656346,55,57,224
+10:12:2017 11:00:07,Air Cargo Problem 1,astar_search, with h_ignore_preconditions,6,0.08939083501172718,41,43,170
+10:12:2017 11:00:08,Air Cargo Problem 1,astar_search, with h_pg_levelsum,6,1.8578898039995693,6,8,28
+10:12:2017 11:00:15,Air Cargo Problem 2,greedy_best_first_graph_search, with h_1,15,6.1938362030050484,998,1000,8982
+10:12:2017 11:00:33,Air Cargo Problem 2,greedy_best_first_graph_search, with h_1,15,5.631077482001274,998,1000,8982
+10:12:2017 11:01:00,Air Cargo Problem 2,astar_search, with h_1,9,27.20087034199969,4853,4855,44041
+10:12:2017 11:01:10,Air Cargo Problem 2,astar_search, with h_ignore_preconditions,9,9.49709941900801,1450,1452,13303
+10:12:2017 11:02:17,Air Cargo Problem 2,astar_search, with h_pg_levelsum,9,67.12949818000197,9,11,86

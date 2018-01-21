@@ -1,0 +1,27 @@
+Timestamp,Problem,Search,Heuristic,Plan length,Time elapsed,Expansions,Goal tests,New nodes
+09:12:2017 12:43:02,Air Cargo Problem 1,Air Cargo Problem 1,,6,0.07233786099823192,43,56,180
+09:12:2017 12:43:04,Air Cargo Problem 1,Air Cargo Problem 1,,6,2.1148597710052854,1458,1459,5960
+09:12:2017 12:43:04,Air Cargo Problem 1,Air Cargo Problem 1,,12,0.02161366800282849,12,13,48
+09:12:2017 12:43:04,Air Cargo Problem 1,Air Cargo Problem 1,,50,0.2024017330040806,101,271,414
+09:12:2017 12:43:04,Air Cargo Problem 1,Air Cargo Problem 1,,6,0.07851037900400115,55,57,224
+09:12:2017 12:43:10,Air Cargo Problem 1,Air Cargo Problem 1, with h_1,6,6.156560242998239,4229,4230,17029
+09:12:2017 12:43:10,Air Cargo Problem 1,Air Cargo Problem 1, with h_1,6,0.01100189099815907,7,9,28
+09:12:2017 12:43:10,Air Cargo Problem 1,Air Cargo Problem 1, with h_1,6,0.08420400600152789,55,57,224
+09:12:2017 12:43:11,Air Cargo Problem 1,Air Cargo Problem 1, with h_ignore_preconditions,6,0.08235559000604553,41,43,170
+09:12:2017 12:43:12,Air Cargo Problem 1,Air Cargo Problem 1, with h_pg_levelsum,6,1.8507809479997377,6,8,28
+09:12:2017 12:43:46,Air Cargo Problem 2,Air Cargo Problem 2,,9,33.69327423499635,3343,4609,30509
+09:12:2017 12:46:40,Air Cargo Problem 1,breadth_first_search,,6,0.0689254430035362,43,56,180
+09:12:2017 12:46:42,Air Cargo Problem 1,breadth_first_tree_search,,6,2.194680166998296,1458,1459,5960
+09:12:2017 12:46:42,Air Cargo Problem 1,depth_first_graph_search,,12,0.0210810569988098,12,13,48
+09:12:2017 12:46:42,Air Cargo Problem 1,depth_limited_search,,50,0.20480624500487465,101,271,414
+09:12:2017 12:46:43,Air Cargo Problem 1,uniform_cost_search,,6,0.08752149299834855,55,57,224
+09:12:2017 12:47:00,Air Cargo Problem 1,breadth_first_search,,6,0.07522456200240413,43,56,180
+09:12:2017 12:47:02,Air Cargo Problem 1,breadth_first_tree_search,,6,2.149099328002194,1458,1459,5960
+09:12:2017 12:47:02,Air Cargo Problem 1,depth_first_graph_search,,12,0.01867998299712781,12,13,48
+09:12:2017 12:47:03,Air Cargo Problem 1,depth_limited_search,,50,0.19467104799696244,101,271,414
+09:12:2017 12:47:03,Air Cargo Problem 1,uniform_cost_search,,6,0.0813534039989463,55,57,224
+09:12:2017 12:47:10,Air Cargo Problem 1,recursive_best_first_search, with h_1,6,6.709887750002963,4229,4230,17029
+09:12:2017 12:47:10,Air Cargo Problem 1,greedy_best_first_graph_search, with h_1,6,0.01201312500052154,7,9,28
+09:12:2017 12:47:10,Air Cargo Problem 1,astar_search, with h_1,6,0.08687903299869504,55,57,224
+09:12:2017 12:47:10,Air Cargo Problem 1,astar_search, with h_ignore_preconditions,6,0.089483609997842,41,43,170
+09:12:2017 12:47:12,Air Cargo Problem 1,astar_search, with h_pg_levelsum,6,1.9133366360038053,6,8,28
