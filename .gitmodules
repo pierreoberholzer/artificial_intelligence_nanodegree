@@ -1,3 +1,19 @@
 [submodule "term2/dog-project"]
 	path = term2/dog-project
 	url = https://github.com/udacity/dog-project.git
+
+[submodule "term2/deep-learning"]
+	path = term2/deep-learning
+	url = https://github.com/udacity/deep-learning.git
+
+[submodule "term2/aind2-cnn"]
+	path = term2/aind2-cnn
+	url = https://github.com/udacity/aind2-cnn.git
+
+[submodule "term2/aind2-rnn"]
+	path = term2/aind2-rnn
+	url = https://github.com/udacity/aind2-rnn.git
+
+[submodule "term2/aind2-dl"]
+	path = term2/aind2-dl
+	url = https://github.com/udacity/aind2-dl.git
