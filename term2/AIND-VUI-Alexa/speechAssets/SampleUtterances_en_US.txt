@@ -1,0 +1,37 @@
+GetNewFactIntent a fact about a.i.
+GetNewFactIntent tell me a fact about a.i.
+GetNewFactIntent give me a fact about a.i.
+GetNewFactIntent give me something about a.i.
+
+GetNewFactIntent tell me something about a.i.
+GetNewFactIntent say something about a.i.
+GetNewFactIntent tell me about a.i.
+GetNewFactIntent show what you know about a.i.
+
+GetNewFactIntent what do you know about a.i.
+GetNewFactIntent what is the history of AI
+GetNewFactIntent do you have anything about a.i.
+GetNewFactIntent do you have something about a.i.
+GetNewFactIntent do you have facts about a.i.
+
+GetNewFactIntent a.i. facts
+GetNewFactIntent a.i. history
+
+GetNewYearFactIntent a fact in {FACT_YEAR}
+GetNewYearFactIntent tell me a fact in {FACT_YEAR}
+GetNewYearFactIntent give me a fact in {FACT_YEAR}
+GetNewYearFactIntent give me something in {FACT_YEAR}
+
+GetNewYearFactIntent tell me something about a.i. in {FACT_YEAR}
+GetNewYearFactIntent say something about a.i. in {FACT_YEAR}
+GetNewYearFactIntent tell me about a.i. in {FACT_YEAR}
+GetNewYearFactIntent show what you know about a.i. in {FACT_YEAR}
+
+GetNewYearFactIntent what do you know about a.i. in {FACT_YEAR}
+GetNewYearFactIntent what is the history of AI in {FACT_YEAR}
+GetNewYearFactIntent do you have anything about a.i. in {FACT_YEAR}
+GetNewYearFactIntent do you have something about a.i. in {FACT_YEAR}
+GetNewYearFactIntent do you have facts about a.i. in {FACT_YEAR}
+
+GetNewYearFactIntent a.i. facts {FACT_YEAR}
+GetNewYearFactIntent a.i. history {FACT_YEAR}
